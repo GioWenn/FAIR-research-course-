@@ -1,5 +1,5 @@
 ---
-title: "analysis"
+title: "Analysis"
 ---
 First we load the libraries needed for the analysis: 
 ```{r}

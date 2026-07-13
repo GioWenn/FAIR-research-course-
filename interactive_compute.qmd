@@ -1,5 +1,5 @@
 ---
-title: "Interactice work without a server with web assembly"
+title: "Interactive work without a server with web assembly"
 format: live-html
 engine: knitr
 ---
